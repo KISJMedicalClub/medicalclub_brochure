@@ -35,7 +35,7 @@ The heavy-ion therapy section introduces radiation therapy and compares conventi
 
 ```text
 .
-├── Medical Club Brochure 20231021.pdf
+├── Medical Club Brochure.pdf
 └── README.md
 ```
 
