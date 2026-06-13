@@ -47,21 +47,6 @@ The purpose of this project is to promote medical awareness and preparedness amo
 
 Created by members of the Korea International School Medical Club.
 
-Featured brochure sections include work by student contributors on choking response, burn first aid, and heavy-ion cancer radiotherapy.
-
-## Suggested Use
-
-This repository can be used to:
-
-- Share the medical brochure with students, teachers, and community members
-- Present a student-led medical education project
-- Document Korea International School Medical Club outreach work
-- Support discussions about public health, first aid, and medical technology
-
 ## Disclaimer
 
 This brochure is intended for educational purposes only. It is not a substitute for professional medical advice, diagnosis, treatment, or certified first-aid training. In a real emergency, contact local emergency services immediately.
-
-## License
-
-No license has been specified yet. Add a license if you plan to publicly share, reuse, or allow others to modify this project.
