@@ -2,8 +2,7 @@
 
 A bilingual medical education brochure developed by members of the Korea International School Medical Club, featuring practical emergency-response guidance and an introduction to modern medical technology breakthroughs such as heavy-ion cancer radiotherapy.
 
-The complete brochure can be viewed or downloaded as a PDF file.
-📄 [Medical Club Brochure.pdf](Medical%20Club%20Brochure.pdf)
+The complete brochure can be viewed or downloaded as a PDF file: 📄 [Medical Club Brochure.pdf](Medical%20Club%20Brochure.pdf)
 
 ## Overview
 
