@@ -11,8 +11,8 @@ The brochure covers emergency topics such as choking and burns, as well as a tec
 The figures show the brochure’s heavy-ion cancer radiotherapy section, including background information, treatment comparisons, and the use of heavy-ion therapy in Korea.
 
 <p align="center">
-  <img src="assets/Heavy_ion_cancer_radiotherapy1.PNG" alt="Heavy-ion cancer radiotherapy brochure cover and use in Korea" width="45%">
-  <img src="assets/Heavy_ion_cancer_radiotherapy2.PNG" alt="Heavy-ion cancer radiotherapy background and treatment report" width="45%">
+  <img src="Heavy_ion_cancer_radiotherapy1.PNG" alt="Heavy-ion cancer radiotherapy brochure cover and use in Korea" width="45%">
+  <img src="Heavy_ion_cancer_radiotherapy2.PNG" alt="Heavy-ion cancer radiotherapy background and treatment report" width="45%">
 </p>
 
 ## Topics Covered
