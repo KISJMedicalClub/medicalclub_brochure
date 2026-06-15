@@ -8,6 +8,13 @@ This project presents a student-created medical brochure designed to make health
 
 The brochure covers emergency topics such as choking and burns, as well as a technology-focused section on heavy-ion cancer radiotherapy in Korea.
 
+The figures show the brochure’s heavy-ion cancer radiotherapy section, including background information, treatment comparisons, and the use of heavy-ion therapy in Korea.
+
+<p align="center">
+  <img src="assets/Heavy_ion_cancer_radiotherapy1.PNG" alt="Heavy-ion cancer radiotherapy brochure cover and use in Korea" width="45%">
+  <img src="assets/Heavy_ion_cancer_radiotherapy2.PNG" alt="Heavy-ion cancer radiotherapy background and treatment report" width="45%">
+</p>
+
 ## Topics Covered
 
 ### Choking and Airway Obstruction
@@ -35,9 +42,11 @@ The heavy-ion therapy section introduces radiation therapy and compares conventi
 
 ```text
 .
+├── assets/
+│   ├── Heavy_ion_cancer_radiotherapy1.PNG
+│   └── Heavy_ion_cancer_radiotherapy2.PNG
 ├── Medical Club Brochure.pdf
 └── README.md
-```
 
 ## Purpose
 
