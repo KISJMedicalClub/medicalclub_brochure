@@ -47,7 +47,7 @@ The heavy-ion therapy section introduces radiation therapy and compares conventi
 │   └── Heavy_ion_cancer_radiotherapy2.PNG
 ├── Medical Club Brochure.pdf
 └── README.md
-
+```
 ## Purpose
 
 The purpose of this project is to promote medical awareness and preparedness among students and community members. By presenting emergency procedures and medical innovations in an accessible brochure format, the project encourages readers to become more informed about first aid, safety, and healthcare technology.
